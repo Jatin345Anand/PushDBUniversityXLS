@@ -1,0 +1,19 @@
+body {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    background-color:ghostwhite;
+    font-family: 'Comfortaa', cursive;
+}
+#filediv{
+    padding-left: 300px;
+    padding-right: 300px;
+}
+h4 {
+    text-align: center;
+}
+
+#Buttons {
+    text-align: center;
+} 
